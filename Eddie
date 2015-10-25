@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+    <html>
+    <head> </head>
+    <body>
+        <h1> Eddie's first webpage </h1>
+        <p>
+            Welcome to my first webpage, where I will practice html and CSS. 
+        </p>
+        <p>
+            Here is a <a href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=paragraph%20definition"> paragraph </a>, made by using the paragragh opening and closing tags in html. Inside the word "paragraph" is a link to the definition of paragraph. Made possible by placing the word in between the link tags, which I can't write out, or they will turn into links! 
+        </p>
+        <p>
+            In this paragraph there is an image, with a link in it. Made possible by wrapping and img src tag in link tags. 
+            <a href="http://assets.diylol.com/hfs/06b/20d/347/resized/creepy-willy-wonka-meme-generator-you-can-suck-it-suck-it-and-suck-it-and-it-will-never-get-any-smaller-3f05eb.jpg">
+            <img src="http://i.imgur.com/VbTeoCB.jpg">
+            </a>
+        </p>
+        
+    </body>
+    </html>
